@@ -2,7 +2,7 @@
 Python Vertical Scroller Game
 
 [![Link to game preview](https://i3.ytimg.com/vi/Ar4_TdX9RCc/maxresdefault.jpg)](https://youtu.be/Ar4_TdX9RCc)
-
+<b>Click image above for gameplay clip</b>
 
 Avalanche is a verical-scroller game. The player wins by dropping to the
 bottommost platform. They lose if the avalanche touches them.
